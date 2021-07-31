@@ -2,7 +2,7 @@
 
 #### _Full Stack Web App project
 
-Dividing your bill was never that easy!
+Splitting your bill was never that easy!
 
 ## Introduction
 
